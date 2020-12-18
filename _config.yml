@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: D&A INNOVATING TEAM
+author: Dominique Yanze
+email: dominiqueyanze@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  D&A INNOVATING TEAM is an awesome idea that was suggested by Mrs. Dominique Yanze from Cameroon.
+ Its main objective is to help people to interact freely with their social media account.
+ Help them to meet, link and promote enterprises from different countries.
+D&A INNOVATING Team vient apporter un plus à votre merveilleuse entreprise.
+Faites nous confiance pour vos publicités et vous serez satisfaits.
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+facebook_page: www.D&A innovating Team.com
 
 show_excerpts: true # set to false to remove excerpts on the homepage
